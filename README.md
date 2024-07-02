@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aasim9155@gmail.com**
 
-- ⚡ Fun fact ** A group of cats is called a “clowder.” **
+- ⚡ Fun fact **A group of cats is called a “clowder.”**
 
 -  💗 I love cats 
 
