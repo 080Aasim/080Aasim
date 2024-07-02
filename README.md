@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Aasim Akhtar</h1>
+<h1 align="center">Hello 👋, I'm Aasim Akhtar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=080aasim&label=Profile%20views&color=0e75b6&style=flat" alt="080aasim" /> </p>
 
 - 🔭 I’m currently working on **Learning fullStack**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJs**
 
 - 📫 How to reach me **aasim9155@gmail.com**
 
-- ⚡ Fun fact **I'm not dumb**
+- ⚡ Fun fact ** A group of cats is called a “clowder.” **
+
+-  💗 I love cats 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
